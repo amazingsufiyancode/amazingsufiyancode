@@ -43,4 +43,4 @@ Passionate Software Engineer and AI enthusiast with a knack for solving real-wor
 Bachelor's in Electronics and Telecommunication, BVCOEL, Pune (Ongoing)
 
 ## 📫 Let's Connect!
-I'm actively seeking new opportunities in  Software Engineering  and  Artificial Intelligence . Let's connect on [LinkedIn](Your_LinkedIn_Profile_URL_Here) and explore how we can innovate together!
+I'm actively seeking new opportunities in  Software Engineering  and Fullstack Development . Let's connect on [LinkedIn](https://www.linkedin.com/in/sufiyan-shaikh22/) and explore how we can innovate together!
